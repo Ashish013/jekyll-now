@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts">
   {% for tag in site.tags %}
-  {% if tag[0] contains 'Homepage' %}
+  {% if tag[0] == 'Homepage' %}
   {% for post in tag[1] %}
   
     <article class="post">
