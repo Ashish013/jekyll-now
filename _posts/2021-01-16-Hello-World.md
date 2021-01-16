@@ -34,6 +34,6 @@ My Research Interests are summarized as follows:
 ## Non-Academic Intersts and Achievements
 
 Other than academics I'd like to invlove myself in playing sports such as Roller Skating, badminton, swimming and cricket.
-Speaking of Roller Skating I've participated in States Competition (Telangana - 2016).
+Speaking of roller Skating, I've participated in Telangana State Competition in the year 2016.
 
 I also am fond of cinematography/directing short films and have directed 2 short films in past, both of which I'm not very proud of 😬
