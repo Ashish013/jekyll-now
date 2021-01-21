@@ -16,7 +16,7 @@ I'm an inquisitive learner with reserach interests being Deep Learning and Compu
 I love to read and implement associated research papers. Other than that I'm also trying my hands on NLP and Reinforcement learning.
 So hence ocassionaly I'll be writing up an explanation blog on topics that beginners often misunderstand in them.
 
-My Research Interests are summarized as follows:
+**My Research Interests are summarized as follows:**
 * Image Analysis and Object localization
 * Facial Recognition
 * Video Analytics using Deep Learning
