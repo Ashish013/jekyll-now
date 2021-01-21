@@ -35,6 +35,6 @@ So hence ocassionaly I'll also be writing up blogs on topics that beginners ofte
 ## Non-Academic Intersts and Achievements
 
 Other than academics I'd like to invlove myself in playing sports such as Roller Skating, badminton, swimming and cricket.
-Speaking of roller Skating, I've participated in Telangana State Competition in the year 2016, secured first twice in the Ditricts (Karimnagar) Competitions.
+Speaking of roller Skating, I've participated in Telangana State Competition in the year 2016, secured first twice in the Districts (Karimnagar) Roller Skate Competitions.
 
 I also am fond of cinematography/directing short films.
