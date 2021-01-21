@@ -13,8 +13,8 @@ I'm currently pursuing my batchelors degree in Data Science and Artificial Intel
 ## Research Interests
 
 I'm an inquisitive learner with reserach interests being Deep Learning and Computer Vision.
-I love to read and implement associated research papers. Other than that I'm also trying my hands on NLP and Reinforcement learning.
-So hence ocassionaly I'll be writing up an explanation blog on topics that beginners often misunderstand in them.
+I love to read and implement associated research papers in these fields. When I'm free I also like to involve myself in  a bit of Reinforcement Learning.
+So hence ocassionaly I'll also be writing up blogs on topics that beginners often misunderstand in them.
 
 **My Research Interests are summarized as follows:**
 * Image Analysis and Object localization
@@ -26,7 +26,7 @@ So hence ocassionaly I'll be writing up an explanation blog on topics that begin
 * Programming Languages - Python, C++, Matlab
 * Libraries - scikit-learn, OpenCV, Numpy, Pandas, Matplotlib, Seaborn, Tkinter
 * Frameworks - TensorFlow, Pytorch
-* Tools - Git, Coomand Prompt, Latex
+* Tools - Git, Latex, Command prompt
 
 ## Teachings
 * [Session 2 - Intorduction to Google Colabratory](https://drive.google.com/drive/folders/1pRPKMKj8_avTAqneWBHVXGvTaVZNHGWt?usp=sharing)
