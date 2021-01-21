@@ -25,8 +25,8 @@ My Research Interests are summarized as follows:
 ## Technolgies and Skills
 * Programming Languages - Python, C++, Matlab
 * Libraries - scikit-learn, OpenCV, Numpy, Pandas, Matplotlib, Seaborn, Tkinter
-* Framewrorks - TensorFlow, Pytorch
-* Mark-up Languages and Tools - Git, HTML, CSS, Latex
+* Frameworks - TensorFlow, Pytorch
+* Tools - Git, Coomand Prompt, Latex
 
 ## Teachings
 * [Session 2 - Intorduction to Google Colabratory](https://drive.google.com/drive/folders/1pRPKMKj8_avTAqneWBHVXGvTaVZNHGWt?usp=sharing)
@@ -35,6 +35,6 @@ My Research Interests are summarized as follows:
 ## Non-Academic Intersts and Achievements
 
 Other than academics I'd like to invlove myself in playing sports such as Roller Skating, badminton, swimming and cricket.
-Speaking of roller Skating, I've participated in Telangana State Competition in the year 2016.
+Speaking of roller Skating, I've participated in Telangana State Competition in the year 2016, secured first twice in the Ditricts (Karimnagar) Competitions.
 
-I also am fond of cinematography/directing short films and have directed 2 short films in past, both of which I'm not very proud of 😬
+I also am fond of cinematography/directing short films.
