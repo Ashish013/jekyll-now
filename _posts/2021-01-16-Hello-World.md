@@ -25,7 +25,7 @@ So hence ocassionaly I'll also be writing up blogs on topics that beginners ofte
 ## Technolgies and Skills
 * Programming Languages - Python, C++, Matlab
 * Libraries - scikit-learn, OpenCV, Numpy, Pandas, Matplotlib, Seaborn, Tkinter
-* Frameworks - TensorFlow, Pytorch
+* Frameworks - TensorFlow, Pytorch, Unity
 * Tools - Git, Latex, Command prompt
 
 ## Teachings
