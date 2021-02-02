@@ -6,15 +6,14 @@ tags: Homepage
 ![Home Page](/images/Home_page/1.png)
 ## About me
 
-I'm currently pursuing my batchelors degree in Data Science and Artificial Intelligence at IIIT Naya Raipur. I love writing codes that automizes workflows and gets rid of the scut work, enabling people to work on the things that matter the most. I also love to teach, interact and guide the new comers in the field.
+I am currently pursuing my bachelor's degree in Data Science and Artificial Intelligence at IIIT Naya Raipur. I love writing code that automates workflows and gets rid of scut work, allowing people to work on things that matter most. I also enjoy teaching, interacting and directing newcomers in the area.
 
-*This blog helps me to document my learnings and lead the way to the people in the future on this path.*
+*This blog helps me document my learning and guide people on this journey in the future.*
 
 ## Research Interests
 
-I'm an inquisitive learner with reserach interests being Deep Learning and Computer Vision.
-I love to read and implement associated research papers in these fields. When I'm free I also like to involve myself in  a bit of Reinforcement Learning.
-So hence ocassionaly I'll also be writing up blogs on topics that beginners often misunderstand in them.
+I'm an inquisitive learner who's interested in Deep Learning and Computer Vision. I enjoy reading and implementing relevant research papers in these areas.
+When I'm free, I also like to get interested in a bit of Reinforcement Learning. So, sometimes, I'm also writing blogs on subjects that beginners often misunderstand in them.
 
 **My Research Interests are summarized as follows:**
 * Image Analysis and Object localization
@@ -34,7 +33,6 @@ So hence ocassionaly I'll also be writing up blogs on topics that beginners ofte
 
 ## Non-Academic Intersts and Achievements
 
-Other than academics I'd like to invlove myself in playing sports such as Roller Skating, badminton, swimming and cricket.
-Speaking of roller Skating, I've participated in Telangana State Competition in the year 2016, secured first twice in the Districts (Karimnagar) Roller Skate Competitions.
+Other than academics, I would like to be involved in sports such as Roller Skating, badminton, swimming and cricket. Speaking of roller skating, I participated in the Telangana Roller Skate Competition in 2016 and also secured first place twice in the District Roller Skate Tournament.
 
-I also am fond of cinematography/directing short films.
+I also seldom like to involve myself in a bit of filmmaking/directing short films.
