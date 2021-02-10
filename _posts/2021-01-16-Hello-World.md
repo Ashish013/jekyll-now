@@ -6,23 +6,21 @@ tags: Homepage
 ![Home Page](/images/Home_page/1.png)
 ## About me
 
-I am currently pursuing my bachelor's degree in Data Science and Artificial Intelligence at IIIT Naya Raipur. I love writing code that automates workflows and gets rid of scut work, allowing people to work on things that matter most. I also enjoy teaching, interacting and directing newcomers in the area.
+I am currently pursuing my bachelor's degree in Data Science and Artificial Intelligence at IIIT Naya Raipur. I love writing code that automates workflows and gets rid of scut work, allowing people to work on things that matter most. Other than that, I also enjoy teaching, interacting and directing newcomers in the field.
 
-*This blog helps me document my learning and guide people on this journey in the future.*
+*The main motive of this blog is to help me document my learnings*
 
 ## Research Interests
+My current research interests are Deep Learning and Computer Vision. I enjoy reading and implementing the relevant research papers in these areas. Most of the time I'll be thinking of ways to implement them to actual real life problems :love:.When I'm free, I also like to get interested in a bit of Natural Language Processing.
 
-I'm an inquisitive learner who's interested in Deep Learning and Computer Vision. I enjoy reading and implementing relevant research papers in these areas.
-When I'm free, I also like to get interested in a bit of Reinforcement Learning. So, sometimes, I'm also writing blogs on subjects that beginners often misunderstand in them.
-
-**My Research Interests are summarized as follows:**
+**Interested research topics:**
 * Image Analysis and Object localization
 * Facial Recognition
 * Video Analytics using Deep Learning
 * General Adversial Networks 
 
 ## Technolgies and Skills
-* Programming Languages - Python, C++, Matlab
+* Programming Languages - Python, C++, Matlab, C, Java
 * Libraries - scikit-learn, OpenCV, Numpy, Pandas, Matplotlib, Seaborn, Tkinter
 * Frameworks - TensorFlow, Pytorch, Unity
 * Tools - Git, Latex, Command prompt
@@ -33,6 +31,6 @@ When I'm free, I also like to get interested in a bit of Reinforcement Learning.
 
 ## Non-Academic Intersts and Achievements
 
-Other than academics, I would like to be involved in sports such as Roller Skating, badminton, swimming and cricket. Speaking of roller skating, I participated in the Telangana Roller Skate Competition in 2016 and also secured first place twice in the District Roller Skate Tournament.
+Other than academics, I would like to be involved in sports such as Roller Skating, badminton, swimming and cricket. Speaking of roller skating, I participated in the Telangana Roller Skate Competition in 2016 and, also secured first place twice in the District Roller Skate Tournament.
 
-I also seldom like to involve myself in a bit of filmmaking/directing short films.
+I also seldom like to involve myself in a bit of filmmaking.
