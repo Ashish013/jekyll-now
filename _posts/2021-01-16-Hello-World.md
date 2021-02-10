@@ -3,7 +3,7 @@ layout: post
 title: Hey there, I'm Ashish Marisetty 👋
 tags: Homepage
 ---
-![Home Page](/images/Home_page/1.png)
+![Home Page](/images/Home_page/3.png)
 ## About me
 
 I'm currently pursuing my bachelor's degree in Data Science and Artificial Intelligence at IIIT Naya Raipur. I love writing code that automates workflows and gets rid of scut work, allowing people to work on things that matter most. Other than that, I also enjoy teaching, interacting and directing newcomers in the field.
