@@ -11,7 +11,7 @@ I'm currently pursuing my bachelor's degree in Data Science and Artificial Intel
 *The main motive of this blog is to help me document my learnings.*
 
 ## Research Interests
-My current research interests include Deep Learning and Computer Vision. I love reading and implementing the relevant research papers in these areas. Most of the time I'll be thinking of ways to implement them to actual real life problems ❤. Somrtimes, I also like to get interested in a bit of Natural Language Processing.
+My current research interests include Deep Learning and Computer Vision. I love reading and implementing the relevant research papers in these areas. Most of the time I'll be thinking of ways to implement them to actual real life problems ❤. Sometimes, I also like to get interested in a bit of Natural Language Processing.
 
 **Interested research topics:**
 * Image Analysis and Object localization
