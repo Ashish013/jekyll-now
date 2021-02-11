@@ -6,7 +6,7 @@ tags: Homepage
 ![Home Page](/images/Home_page/3.png)
 ## About me
 
-I'm currently pursuing my bachelor's degree in Data Science and Artificial Intelligence at IIIT Naya Raipur. I love writing codes to train Deep Learning and Machine Learning models. You can find me mostly active on Twitter and Github. Other than that, I also enjoy teaching, interacting and directing newcomers in the field.
+I'm currently pursuing my bachelor's degree in Data Science and Artificial Intelligence at IIIT Naya Raipur. I love writing code to train Deep Learning and Machine Learning models. You can find me mostly active on Twitter and Github. Other than that, I also enjoy teaching, interacting and directing newcomers in the field.
 
 *The main motive of this blog is to help me document my learnings.*
 
