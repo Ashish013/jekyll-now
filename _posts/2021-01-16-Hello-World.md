@@ -17,7 +17,7 @@ When I'm not training models and being a geek, I like to roller skate or watch a
 
 Speaking of space, our entry in the NASA Ames Space Settlement contest had won a consolation prize with over 4000 students participating world wide that year. Our idea included a ten torus mega structure located around the orbit of Mars with each torus being designed for a specific purpose.
 
-And also being and avid roller skater, I've participated and won several accolades in the district and state wide roller skate tournaments that I really look  back to and cherish.
+And also being an avid roller skater, I've participated and won several accolades in the district and state wide roller skate tournaments that I really look  back to and cherish.
 
 ## Research Interests
 
