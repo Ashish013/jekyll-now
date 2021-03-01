@@ -3,7 +3,7 @@ layout: post
 title: Hello visitor, I'm Ashish Marisetty.
 tags: Homepage
 ---
-![Home Page](/images/Home_page/3.png)
+![Home Page](/images/Home_page/6.jpg)
 
 ## About me
 
