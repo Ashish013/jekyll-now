@@ -3,7 +3,7 @@ layout: post
 title: Hello visitor, I'm Ashish Marisetty.
 tags: Homepage
 ---
-![Home Page](/images/Home_page/6.jpg)
+![Home Page](/images/Home_page/2.jpg)
 
 ## About me
 
@@ -13,11 +13,11 @@ I'm currently pursuing my bachelor's degree in Data Science and Artificial Intel
 
 When I'm not training models and being a geek, I like to roller skate or watch a few space documentaries and follow up on future space endeavors and technologies and sometimes even try out some filmmaking. 
 
-## Non academic Achievements
+## Non Academic Achievements
 
 Speaking of space, our entry in the NASA Ames Space Settlement contest had won a consolation prize with over 4000 students participating world wide that year. Our idea included a ten torus mega structure located around the orbit of Mars with each torus being designed for a specific purpose.
 
-Coming back to roller skating, I've participated and won several accolades in the district and state wide roller skate tournaments that I really cherish.
+And also being and avid roller skater, I've participated and won several accolades in the district and state wide roller skate tournaments that I really look  back to and cherish.
 
 ## Research Interests
 
