@@ -11,11 +11,11 @@ I'm currently pursuing my bachelor's degree in Data Science and Artificial Intel
 
 *The main motive of this blog is to help me document my learnings along the way.*
 
-When I'm not training models and being a geek, I like to roller skate  or watch a few space documentaries and follow up about future space endeavors and technologies and sometimes even try out some filmmaking. 
+When I'm not training models and being a geek, I like to roller skate or watch a few space documentaries and follow up on future space endeavors and technologies and sometimes even try out some filmmaking. 
 
 ## Non academic Achievements
 
-Speaking of space, our entry in the NASA Ames Space Settlement contest had won a constellation prize with over 4000 students participating world wide that year. Our idea included a ten torus mega structure located around the orbit of Mars with each torus being designed for a specific purpose.
+Speaking of space, our entry in the NASA Ames Space Settlement contest had won a consolation prize with over 4000 students participating world wide that year. Our idea included a ten torus mega structure located around the orbit of Mars with each torus being designed for a specific purpose.
 
 Coming back to roller skating, I've participated and won several accolades in the district and state wide roller skate tournaments that I really cherish.
 
